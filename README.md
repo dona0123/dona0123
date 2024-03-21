@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 
 
-##### Hello, I'm Dona 👋
+# Hello, I'm Dona 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dona0123&show_icons=true&theme=radical)
 
