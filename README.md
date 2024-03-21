@@ -1,4 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
+<div align="center">
 
 ### Hi there 👋
 
@@ -10,6 +11,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dona0123&langs_count=8)](https://github.com/dona0123/github-readme-stats)
 
+</div>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
 
 
