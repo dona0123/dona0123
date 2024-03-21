@@ -7,7 +7,7 @@
 
 <!-- 방문자 수 체크 -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdona0123&count_bg=%23CACCC9&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/dona0123)          
-<br/><br/>
+<br/><br/><br/>
 
 
 
@@ -43,13 +43,13 @@
 
 
 <br/><br/><br/><br/>
-<!-- 깃허브, 백준 등급 -->
+<!-- 깃허브 등급 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dona0123&show_icons=true&theme=dark)
 
+<!-- 사용 언어 비율 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dona0123&layout=compact)](https://github.com/dona0123/github-readme-stats)
 
-<br/><br/>
-<!-- 사용 언어 비율 -->
+<!-- 백준 -->
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ehsk0123)](https://solved.ac/ehsk0123)
 
 
