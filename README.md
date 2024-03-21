@@ -1,5 +1,4 @@
 ![image](https://github.com/dona0123/dona0123/assets/110447654/e9c5fd6d-188d-4376-b634-1bf570ba1418)<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 
 
 <br/><br/><br/>
