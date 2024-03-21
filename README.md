@@ -45,8 +45,8 @@
 <br/><br/><br/><br/>
 <!-- 깃허브, 백준 등급 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dona0123&show_icons=true&theme=dark)
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ehsk0123)](https://solved.ac/ehsk0123/)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={ehsk0123})](https://solved.ac/{ehsk0123})
 
 
 
