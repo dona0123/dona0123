@@ -5,8 +5,7 @@
 ## Hello, I'm Dona 👋
 
 <!-- 방문자 수 체크 -->
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdona0123&count_bg=%23CACCC9&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/dona0123)
-<br/>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdona0123&count_bg=%23CACCC9&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/dona0123)          
 
 
 
@@ -21,12 +20,6 @@
 ![리액트](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
 ![장고](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) 
 ![부트스트](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) 
-
-
-
-
-
-
 
 
 
