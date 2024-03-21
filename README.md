@@ -51,7 +51,7 @@
 <br/><br/>
 <!-- 사용 언어 비율 -->
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={ehsk0123})](https://solved.ac/{ehsk0123})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ehsk0123)](https://solved.ac/ehsk0123)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dona0123&layout=compact)](https://github.com/dona0123/github-readme-stats)
 
 
