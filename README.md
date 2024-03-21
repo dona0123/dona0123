@@ -32,15 +32,20 @@
 ![리액트네이티](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![리액트네이티](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-<br/>
+
+
 <!-- 깃허브 등급 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dona0123&show_icons=true&theme=radical)
 
-<br/>
+
+
 <!-- 사용 언어 비율 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dona0123&layout=compact)](https://github.com/dona0123/github-readme-stats)
 
-<br/><br/>
+
+
+
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
 </div>
 
