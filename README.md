@@ -3,6 +3,7 @@
 
 
 ## Hello, I'm Dona 👋
+<br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdona0123&count_bg=%23CACCC9&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/dona0123)
 
 
@@ -17,12 +18,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
 </div>
-
-<style>
-    .hits-badge {
-        height: 30%; /* 원하는 너비로 조절 */
-    }
-</style>
 
 
 <!--
