@@ -6,6 +6,7 @@
 
 <!-- 방문자 수 체크 -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdona0123&count_bg=%23CACCC9&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/dona0123)
+<br/><br/>
 
 ### 🚀 Tech Stack 
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
@@ -19,25 +20,27 @@
 ![장고](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) 
 ![부트스트](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) 
 
+<br/>
 ### 📝 Studying 
 ![코틀린](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white) 
 ![리액트네이티](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![스프링](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) 
 
+<br/>
 ### 📱 Contact
 ![리액트네이티](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![리액트네이티](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![리액트네이티](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-
+<br/>
 <!-- 깃허브 등급 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dona0123&show_icons=true&theme=radical)
 
-
+<br/>
 <!-- 사용 언어 비율 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dona0123&layout=compact)](https://github.com/dona0123/github-readme-stats)
 
-
+<br/><br/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
 </div>
 
