@@ -47,7 +47,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dona0123&show_icons=true&theme=dark)
 
 <!-- 사용 언어 비율 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dona0123&layout=compact)](https://github.com/dona0123/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dona0123&layout=compact&theme=dark)
 
 <!-- 백준 -->
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ehsk0123)](https://solved.ac/ehsk0123)
@@ -56,7 +56,7 @@
 
 
 
-
+<br/><br/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
 </div>
 
