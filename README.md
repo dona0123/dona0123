@@ -20,7 +20,7 @@
 
 <style>
     .hits-badge {
-        width: 30%; /* 원하는 너비로 조절 */
+        height: 30%; /* 원하는 너비로 조절 */
     }
 </style>
 
