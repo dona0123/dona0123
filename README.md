@@ -26,7 +26,7 @@
 
 
 
-<br/>
+
 ### 📝 Studying 
 ![코틀린](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white) 
 ![리액트네이티](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
