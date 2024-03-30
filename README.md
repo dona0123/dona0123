@@ -4,12 +4,12 @@
 
 
 <br/><br/>
-# Hello, I'm Dona 👋
+# Hello, I'm DONA PYUN 👋
 
 <!-- 방문자 수 체크 -->
-## Hey 👋, This is DONA PYUN
 [![Gmail Badge](https://img.shields.io/badge/-ehskmagic7@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ehskmagic7@gmail.com)](mailto:ehskmagic7@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-https://www.linkedin.com/in/%EB%8F%84%EB%82%98%ED%8E%B8-1b9181265/-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/%EB%8F%84%EB%82%98%ED%8E%B8-1b9181265//)](https://www.linkedin.com/in/https://www.linkedin.com/in/%EB%8F%84%EB%82%98%ED%8E%B8-1b9181265//) [![Github Badge](https://img.shields.io/badge/-dona0123-grey?style=flat&logo=github&logoColor=white&link=https://github.com/dona0123/)](https://www.github.com/dona0123/) 
+[![Linkedin Badge](https://img.shields.io/badge/-DONA PYUN-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/DONA PYUN/)](https://www.linkedin.com/in/DONA PYUN/) 
+[![Github Badge](https://img.shields.io/badge/-dona0123-grey?style=flat&logo=github&logoColor=white&link=https://github.com/dona0123/)](https://www.github.com/dona0123/) 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdona0123&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/dona0123)        
 <br/><br/><br/>
 
