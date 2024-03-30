@@ -7,18 +7,11 @@
 # Hello, I'm Dona 👋
 
 <!-- 방문자 수 체크 -->
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdona0123&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/dona0123)        
-<br/><br/><br/>
-
 ## Hey 👋, This is DONA PYUN
 [![Gmail Badge](https://img.shields.io/badge/-ehskmagic7@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ehskmagic7@gmail.com)](mailto:ehskmagic7@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-편도나-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/편도나/)](https://www.linkedin.com/in/편도나/) [![Github Badge](https://img.shields.io/badge/-dona0123-grey?style=flat&logo=github&logoColor=white&link=https://github.com/dona0123/)](https://www.github.com/dona0123/) [![Twitter Badge](https://img.shields.io/badge/-EHSK0123@NAVER.COM-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/EHSK0123@NAVER.COM/)](https://www.twitter.com/EHSK0123@NAVER.COM/) <p align='left'>- wawa</p>
-## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=dona0123 alt=dona0123 /> </p>
-
-[![Github stats](https://github-readme-stats.vercel.app/api?username=dona0123&show_icons=true&include_all_commits=true)](https://github.com/dona0123/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dona0123&layout=compact)](https://github.com/dona0123/github-readme-stats)
-
+[![Linkedin Badge](https://img.shields.io/badge/-https://www.linkedin.com/in/%EB%8F%84%EB%82%98%ED%8E%B8-1b9181265/-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/%EB%8F%84%EB%82%98%ED%8E%B8-1b9181265//)](https://www.linkedin.com/in/https://www.linkedin.com/in/%EB%8F%84%EB%82%98%ED%8E%B8-1b9181265//) [![Github Badge](https://img.shields.io/badge/-dona0123-grey?style=flat&logo=github&logoColor=white&link=https://github.com/dona0123/)](https://www.github.com/dona0123/) 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdona0123&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/dona0123)        
+<br/><br/><br/>
 
 
 ### 🚀 Tech Stack 
