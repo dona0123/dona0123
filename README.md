@@ -1,6 +1,15 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 
+## Hey 👋, This is DONA PYUN
+[![Gmail Badge](https://img.shields.io/badge/-EHSK0123@NAVER.COM-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:EHSK0123@NAVER.COM)](mailto:EHSK0123@NAVER.COM) 
+[![Linkedin Badge](https://img.shields.io/badge/-EHSK0123@NAVER.COM-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/EHSK0123@NAVER.COM/)](https://www.linkedin.com/in/EHSK0123@NAVER.COM/) [![Github Badge](https://img.shields.io/badge/-EHSK0123@NAVER.COM-grey?style=flat&logo=github&logoColor=white&link=https://github.com/EHSK0123@NAVER.COM/)](https://www.github.com/EHSK0123@NAVER.COM/) [![Twitter Badge](https://img.shields.io/badge/-EHSK0123@NAVER.COM-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/EHSK0123@NAVER.COM/)](https://www.twitter.com/EHSK0123@NAVER.COM/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=EHSK0123@NAVER.COM/)](EHSK0123@NAVER.COM/) <p align='left'> You can view my resume <a href='EHSK0123@NAVER.COM ' target=_blank><u>here</u>.</a></p>
+## Some of my Github Stats
+<p align=left> <img src=https://komarev.com/ghpvc/?username=EHSK0123@NAVER.COM alt=EHSK0123@NAVER.COM /> </p>
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=EHSK0123@NAVER.COM&show_icons=true&include_all_commits=true)](https://github.com/EHSK0123@NAVER.COM/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EHSK0123@NAVER.COM&layout=compact)](https://github.com/EHSK0123@NAVER.COM/github-readme-stats)
+
 
 <br/><br/>
 # Hello, I'm Dona 👋
