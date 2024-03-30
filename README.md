@@ -51,10 +51,8 @@
 
 <br/><br/><br/><br/>
 <!-- 깃허브 등급 -->
-<p>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dona0123&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dona0123&layout=compact&theme=dark)
-</p>
 
 
 
