@@ -34,6 +34,7 @@
 <br/>
 
 #### ⏲️ Work Stats
+[![dona0123's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dona0123)]
 <br/>
 
 
