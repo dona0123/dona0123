@@ -17,7 +17,7 @@
 ## 💬 About me
 <li>🌱 I'm currently learning full-stack skills</li>
 <li>❤️ I love to code and read</li>
-<br/>
+<br/><br/>
 
 #### 📱 Contact
 <p align="left">
