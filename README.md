@@ -21,7 +21,7 @@
 
 #### 📞 Contact
 <p align="left">
-<a href="https://linkedin.com/in/도나-편" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="도나-편" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/도나-편](https://www.linkedin.com/in/%EB%8F%84%EB%82%98-%ED%8E%B8-1b9181265/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="도나-편" height="30" width="40" /></a>
 <a href="https://instagram.com/pyundona" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pyundona" height="30" width="40" /></a>
 </p>
 <br/>
