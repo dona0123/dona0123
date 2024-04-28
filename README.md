@@ -2,8 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 
 
-
-<br/><br/>
+<br/>
 # Hello, I'm DONA PYUN 👋
 
 <!-- 방문자 수 체크 -->
@@ -12,6 +11,12 @@
 [![Github Badge](https://img.shields.io/badge/-dona0123-grey?style=flat&logo=github&logoColor=white&link=https://github.com/dona0123/)](https://github.com/dona0123) -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdona0123&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/dona0123)        
 <br/><br/><br/>
+
+
+### 💬 About me
+<li>🌱 I'm currently learning full-stack skills</li>
+<li>❤️ I love to code and read</li>
+
 
 
 ### 🚀 Tech Stack 
