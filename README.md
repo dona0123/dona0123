@@ -35,7 +35,6 @@
 
 #### 🎖️ Ranking
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ehsk0123)](https://solved.ac/ehsk0123/)
-출처: https://soo-vely-dev.tistory.com/159 
 
 
 #### ⏲️ Work Stats
