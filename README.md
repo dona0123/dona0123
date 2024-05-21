@@ -34,7 +34,7 @@
 <br/>
 
 #### 🎖️ Ranking
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rail)](https://solved.ac/rail/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ehsk0123)](https://solved.ac/ehsk0123/)
 <br/><br/>
 
 
