@@ -42,12 +42,7 @@
 [![dona0123's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dona0123)] 
 <br/><br/>
 -->
-<a href="https://github.com/dona0123/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dona0123&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/dona0123/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dona0123&repo=convoychat" />
-</a>
+
 
 
 <!-- 깃허브 등급 -->
