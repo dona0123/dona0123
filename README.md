@@ -40,7 +40,10 @@
 
 #### ⏲️ Work Stats
 [![dona0123's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dona0123)]
-[![dona0123's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dona0123)]
+🌞 Morning                83 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+🌆 Daytime                356 commits         ██████░░░░░░░░░░░░░░░░░░░   25.82 % 
+🌃 Evening                693 commits         █████████████░░░░░░░░░░░░   50.25 % 
+🌙 Night                  247 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.91 % 
 <br/><br/>
 
 
