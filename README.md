@@ -52,8 +52,6 @@
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dona0123&show_icons=true&include_all_commits=true&theme=light">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dona0123&layout=compact&theme=light">
-
-  [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dona0123)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 
