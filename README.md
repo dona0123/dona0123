@@ -60,7 +60,8 @@
 <br/><br/>
 
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" /> -->
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=footer&text=Hello, I'm DONA PYUN&fontSize=90)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=footer&text=Hello,%20I'm%20DONA%20PYUN&fontSize=90" alt="footer" />
+
 
 </div>
 
