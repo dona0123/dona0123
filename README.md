@@ -1,6 +1,7 @@
 <!--  <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" /> -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=DONA%20PYUN&fontSize=50" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6a11cb,2575fc&height=250&section=header" alt="header" />
+
 
 
 <br/>
