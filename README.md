@@ -18,8 +18,8 @@
 
 
 ## 💬 About me
-<p>🌱 I'm currently learning full-stack skills</p>
-<p>❤️ I love to code and read</p>
+<p><strong>🌱 I'm currently learning full-stack skills</strong></p>
+<p><strong>📖 I enjoy problem-solving and expanding my knowledge</strong></p>
 <br/><br/>
 
 
