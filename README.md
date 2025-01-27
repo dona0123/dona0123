@@ -1,6 +1,6 @@
 <!--  <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" /> -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello,%20I'm%20DONA%20PYUN&fontSize=90" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=DONA%20PYUN&fontSize=50" alt="header" />
 
 
 <br/>
@@ -61,7 +61,7 @@
 <br/><br/>
 
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" /> -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=footer&text=Hello,%20I'm%20DONA%20PYUN&fontSize=90" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=footer&fontSize=90" alt="footer" />
 
 
 </div>
