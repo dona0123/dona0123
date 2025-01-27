@@ -14,6 +14,7 @@
 [![Github Badge](https://img.shields.io/badge/-dona0123-grey?style=flat&logo=github&logoColor=white&link=https://github.com/dona0123/)](https://github.com/dona0123) -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdona0123&count_bg=%238AD056&title_bg=%233D3A3A&icon=github.svg&icon_color=%23E7E7E7&title=github&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?pvs=4&url=https%3A%2F%2Fbroad-pyjama-96b.notion.site%2FPORTFOLIO-d838223042c7482586d719cc8b4ce35e&count_bg=%23CACACA&title_bg=%233D3A3A&icon=notion.svg&icon_color=%23E7E7E7&title=portfolio&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fmaps.app.goo.gl%2FpEyQeLnoYyE7TCsW9&count_bg=%23E6663C&title_bg=%233D3A3A&icon=trulia.svg&icon_color=%23D5D5D5&title=location&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!-- [![wakatime](https://wakatime.com/badge/user/9dec03fc-79e6-4c81-8e59-1a2227dd678a.svg)](https://wakatime.com/@9dec03fc-79e6-4c81-8e59-1a2227dd678a) -->
 <br/><br/><br/><br/> 
