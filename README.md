@@ -21,7 +21,7 @@
 
 
 
-## 💬 About me
+## ✨ About me
 <p><strong>🚩 From South Korea</strong></p>
 <p><strong>🎓 Majoring in Computer Engineering</strong></p>
 <p><strong>🌱 Currently diving into full-stack development</strong></p>
