@@ -1,5 +1,5 @@
 <!--  <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />-->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" /> -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello, I'm DONA PYUN&fontSize=90)
 
 <br/>
@@ -118,3 +118,4 @@ Here are some ideas to get you started:
 [![인스타그램](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pyundona/)
 [![링크드인](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EB%8F%84%EB%82%98-%ED%8E%B8-1b9181265/) 
 
+-->
