@@ -4,6 +4,9 @@
 
 
 
+[![Language](https://img.shields.io/badge/Language-000000?style=for-the-badge&logo=language&logoColor=white)](#)
+[![Frontend](https://img.shields.io/badge/Frontend-FF5722?style=for-the-badge&logo=react&logoColor=white)](#)
+[![Backend](https://img.shields.io/badge/Backend-00A8FF?style=for-the-badge&logo=node.js&logoColor=white)](#)
 
 
 <br/>
