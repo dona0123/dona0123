@@ -12,7 +12,7 @@
 <!-- [![Gmail Badge](https://img.shields.io/badge/-ehskmagic7@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ehskmagic7@gmail.com)](mailto:ehskmagic7@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-ehsk0123-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ehsk0123/)](https://www.linkedin.com/in/dona-pyun-1b9181265/) 
 [![Github Badge](https://img.shields.io/badge/-dona0123-grey?style=flat&logo=github&logoColor=white&link=https://github.com/dona0123/)](https://github.com/dona0123) -->
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%239FDC71&title_bg=%23000000&icon=&icon_color=%23141414&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%239FDC71&title_bg=%23000000&icon=&icon_color=%23141414&title=hits&edge_flat=false)](https://github.com/dona0123)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdona0123&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/dona0123) 
 [![Portfolio](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fbroad-pyjama-96b.notion.site%2FPORTFOLIO-d838223042c7482586d719cc8b4ce35e&pvs=4&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Portfolio&edge_flat=false)](https://broad-pyjama-96b.notion.site/PORTFOLIO-d838223042c7482586d719cc8b4ce35e?pvs=4)
