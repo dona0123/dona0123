@@ -64,7 +64,7 @@
 <br/><br/>
 
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" /> -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=footer&fontSize=90" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=footer&fontSize=90" alt="footer" />
 
 
 </div>
