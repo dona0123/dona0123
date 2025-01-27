@@ -18,9 +18,12 @@
 
 
 ## 💬 About me
+<p><strong>🇰🇷 I'm from South Korea</strong></p>
+<p><strong>🎓 I'm majoring in Computer Engineering</strong></p>
 <p><strong>🌱 I'm currently learning full-stack skills</strong></p>
 <p><strong>📖 I enjoy problem-solving and expanding my knowledge</strong></p>
 <br/><br/>
+
 
 
 
