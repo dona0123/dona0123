@@ -33,9 +33,8 @@
 ## 📞 Contact
 [![Gmail](https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ehskmagic7@gmail.com) 
 [![Instagram](https://img.shields.io/badge/instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pyundona) 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EB%8F%84%EB%82%98-%ED%8E%B8-1b9181265/)  
-[![Tistory](https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white)](https://lyonglyong0123.tistory.com/)
-
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EB%8F%84%EB%82%98-%ED%8E%B8-1b9181265/) 
+[![Tistory](https://img.shields.io/badge/tistory-FF6600?style=for-the-badge&logo=tistory&logoColor=white)](https://lyonglyong0123.tistory.com/)
 <br/><br/><br/><br/>
 
 
