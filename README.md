@@ -1,6 +1,7 @@
 <!--  <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" /> -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text="Hello, I'm DONA PYUN"fontSize=90)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello,%20I'm%20DONA%20PYUN&fontSize=90" alt="header" />
+
 
 <br/>
 
