@@ -1,6 +1,7 @@
 <!--  <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" /> -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6a11cb,2575fc&height=250&section=header" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=f7a7b5,86c6ff&height=250&section=header" alt="header" />
+
 
 
 
