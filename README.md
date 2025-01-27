@@ -165,7 +165,6 @@ Here are some ideas to get you started:
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/dona0123/dona0123/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://raw.githubusercontent.com/dona0123/dona0123/output/snake.svg)
 
 ###
