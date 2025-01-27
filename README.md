@@ -32,7 +32,8 @@
 
 [![Gmail](https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ehskmagic7@gmail.com) 
 [![Instagram](https://img.shields.io/badge/instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pyundona)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/%EB%8F%84%EB%82%98-%ED%8E%B8-1b9181265/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EB%8F%84%EB%82%98-%ED%8E%B8-1b9181265/)
+
 
 
 <a href="https://www.linkedin.com/in/%EB%8F%84%EB%82%98-%ED%8E%B8-1b9181265/" target="_blank">
