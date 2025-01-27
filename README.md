@@ -79,10 +79,9 @@
 <!-- 깃허브 등급 -->
 ## 🛠️ Github Stats
 <p>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dona0123&show_icons=true&theme=light" />
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dona0123&layout=compact&theme=light&langs_count=6&hide=html,css"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dona0123&show_icons=true&theme=light&bg_color=ffffff&icon_color=ff8c00&title_color=333333" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dona0123&layout=compact&theme=light&langs_count=6&hide=html,css&bg_color=ffffff&title_color=333333&icon_color=ff8c00" />
 </p>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=유저이름&theme=dark)](https://git.io/streak-stats)
 
 
 
