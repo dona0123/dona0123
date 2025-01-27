@@ -60,10 +60,7 @@
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
 </p>
 
-
-
-
-<br/><br/><br/><br/>
+<br/><br/><br/>
 
 
 <!--
@@ -144,11 +141,5 @@ Here are some ideas to get you started:
 ![노션](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![피그마](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) 
 
-
-
-### 📱 Contact
-[![지메일](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ehskmagic7@gmail.com)
-[![인스타그램](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pyundona/)
-[![링크드인](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EB%8F%84%EB%82%98-%ED%8E%B8-1b9181265/) 
 
 -->
