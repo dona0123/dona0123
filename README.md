@@ -1,6 +1,6 @@
 <!--  <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />-->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=SOKURI_CODE&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello, I'm DONA PYUN&fontSize=90)
 
 <br/>
 
@@ -59,7 +59,9 @@
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" /> -->
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=footer&text=Hello, I'm DONA PYUN&fontSize=90)
+
 </div>
 
 
