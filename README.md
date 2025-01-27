@@ -79,7 +79,7 @@
 <!-- 깃허브 등급 -->
 ## 🛠️ Github Stats
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dona0123&show_icons=true&theme=light&bg_color=fafafa&icon_color=ffb3b3&text_color=4f4f4f">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dona0123&show_icons=true&theme=light&bg_color=ffffff&icon_color=ffb3b3&text_color=4f4f4f&hide_title=true&border_radius=10&custom_title=My%20Stats">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dona0123&layout=compact&theme=light">
 </p>
 
