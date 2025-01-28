@@ -12,7 +12,6 @@
 <!-- [![Gmail Badge](https://img.shields.io/badge/-ehskmagic7@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ehskmagic7@gmail.com)](mailto:ehskmagic7@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-ehsk0123-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ehsk0123/)](https://www.linkedin.com/in/dona-pyun-1b9181265/) 
 [![Github Badge](https://img.shields.io/badge/-dona0123-grey?style=flat&logo=github&logoColor=white&link=https://github.com/dona0123/)](https://github.com/dona0123) -->
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fmaps.app.goo.gl%2FpEyQeLnoYyE7TCsW9&count_bg=%23E6663C&title_bg=%233D3A3A&icon=trulia.svg&icon_color=%23D5D5D5&title=location&edge_flat=false)](https://maps.app.goo.gl/pEyQeLnoYyE7TCsW9?pvs=2)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdona0123&count_bg=%238AD056&title_bg=%233D3A3A&icon=github.svg&icon_color=%23E7E7E7&title=github&edge_flat=false)](https://github.com/dona0123?pvs=3)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?pvs=4&url=https%3A%2F%2Fbroad-pyjama-96b.notion.site%2FPORTFOLIO-d838223042c7482586d719cc8b4ce35e&count_bg=%23CACACA&title_bg=%233D3A3A&icon=notion.svg&icon_color=%23E7E7E7&title=portfolio&edge_flat=false)](https://broad-pyjama-96b.notion.site/PORTFOLIO-d838223042c7482586d719cc8b4ce35e?pvs=4)
 
