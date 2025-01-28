@@ -23,7 +23,7 @@
 ### 🚩 From South Korea
 ### 🎓 Majoring in Computer Engineering
 ### 🌱 Currently diving into full-stack development
-### 📂 Check out my [Portfolio](https://broad-pyjama-96b.notion.site/PORTFOLIO-d838223042c7482586d719cc8b4ce35e?pvs=4) to see my work and projects!
+### 📂 Check out my <a href="https://broad-pyjama-96b.notion.site/PORTFOLIO-d838223042c7482586d719cc8b4ce35e?pvs=4" style="color: gray; text-decoration: none;">Portfolio</a> to see my work and projects!
 
 
 <!--
