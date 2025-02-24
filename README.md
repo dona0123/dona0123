@@ -14,10 +14,6 @@
 [![Github Badge](https://img.shields.io/badge/-dona0123-grey?style=flat&logo=github&logoColor=white&link=https://github.com/dona0123/)](https://github.com/dona0123) -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdona0123&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=github&edge_flat=false)](https://github.com/dona0123)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?pvs=4&url=https%3A%2F%2Fbroad-pyjama-96b.notion.site%2FPORTFOLIO-d838223042c7482586d719cc8b4ce35e&count_bg=%23CBCBCB&title_bg=%23555555&icon=notion.svg&icon_color=%23E7E7E7&title=portfolio&edge_flat=false)](https://broad-pyjama-96b.notion.site/PORTFOLIO-d838223042c7482586d719cc8b4ce35e?pvs=4)
-<a href="https://broad-pyjama-96b.notion.site/PORTFOLIO-d838223042c7482586d719cc8b4ce35e?pvs=4" target="_blank">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?pvs=4&url=https%3A%2F%2Fbroad-pyjama-96b.notion.site%2FPORTFOLIO-d838223042c7482586d719cc8b4ce35e&count_bg=%23CBCBCB&title_bg=%23555555&icon=notion.svg&icon_color=%23E7E7E7&title=portfolio&edge_flat=false" />
-</a>
-
 <!-- [![wakatime](https://wakatime.com/badge/user/9dec03fc-79e6-4c81-8e59-1a2227dd678a.svg)](https://wakatime.com/@9dec03fc-79e6-4c81-8e59-1a2227dd678a) -->
 <br/><br/><br/><br/> 
 
