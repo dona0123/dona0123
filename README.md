@@ -6,7 +6,7 @@
 
 <br/>
 
-# Hello, I'm DONA PYUN 👋
+# Hello, I'm Dona Pyun 👋
 
 
 <br/><br/><br/><br/> 
