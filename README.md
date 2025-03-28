@@ -101,7 +101,7 @@
 ## 🛠️ Github Stats
 <p>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dona0123&show_icons=true&theme=light&bg_color=ffffff&icon_color=81c784&title_color=333333" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dona0123&layout=compact&theme=light&langs_count=6&hide=html,css&bg_color=ffffff&title_color=333333&icon_color=81c784" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dona0123&layout=compact&theme=light&langs_count=6&hide=html,css,jupyter%20notebook&bg_color=ffffff&title_color=333333&icon_color=81c784" />
 </p>
 
 
